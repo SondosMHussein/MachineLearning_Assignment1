@@ -31,7 +31,7 @@ for classification.
 - Classify testing data by using SVM and Perceptron classifiers.- Provide accuracies,confusion matrix and decision boundaries for both classifiers. 
 - Build OvR-SVM, test on DUMD testing dataset with obtained features from
 ## Problem 1. 
-2.2 For each binary classifier:
+ For each binary classifier:
 
 • Obtain the binarized labels (OvR) 
 
@@ -39,11 +39,11 @@ for classification.
 
 • Plot SVM’s decision boundary
 
-2.3 Use argmax to aggregate confidence scores and obtain the final predicted labels and obtain the performance (i.e.confusion matrix, accuracy, plotting correct and wrong prediction points) of OvR-SVM. You can check MBC Simple Data
+ Use argmax to aggregate confidence scores and obtain the final predicted labels and obtain the performance (i.e.confusion matrix, accuracy, plotting correct and wrong prediction points) of OvR-SVM. You can check MBC Simple Data
 
-3.1 Build OvO-SVM, test on DUMD testing dataset with obtained features from
+Build OvO-SVM, test on DUMD testing dataset with obtained features from
 ## Problem 2.
-3.2 For each binary classifier:
+ For each binary classifier:
 
 • Obtain the binarized labels (OvO) 
 
@@ -51,7 +51,7 @@ for classification.
 
 • Plot SVM’s decision boundary 
 
-3.3 Use argmax to aggregate confidence scores and obtain the final label and obtain
+ Use argmax to aggregate confidence scores and obtain the final label and obtain
 the performance (i.e., confusion matrix, accuracy, plotting correct and wrong
 prediction points) of OvO-SVM. 
    
